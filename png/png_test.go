@@ -47,6 +47,3 @@ func TestScanPNG(t *testing.T) {
 
 	}
 }
-
-func TestExifPNG(t *testing.T) {
-}
